@@ -42,7 +42,7 @@
             android:onClick="onYesOrNoButtonClick" />
 
         <TextView
-            android:text="10 / 67"
+            android:id="@+id/progressText"
             android:gravity="center"
             android:layout_weight="1"
             android:layout_width="fill_parent"
